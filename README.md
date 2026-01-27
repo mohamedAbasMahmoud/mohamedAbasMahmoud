@@ -119,29 +119,4 @@ I'm a **Flutter Developer** with a proven track record of delivering production-
 3. 🧪 **Testing** → Ensuring reliability through comprehensive testing
 4. 🚀 **Deployment** → Delivering polished apps to Play Store & App Store
 
----
 
-## 🌟 What Makes My Code Different
-
-```dart
-// Clean, maintainable, and following SOLID principles
-class UserRepository {
-  final ApiService _apiService;
-  final LocalStorage _localStorage;
-  
-  UserRepository(this._apiService, this._localStorage);
-  
-  Future<User> getUser(String id) async {
-    // Efficient error handling and caching strategy
-    try {
-      final cachedUser = await _localStorage.getUser(id);
-      if (cachedUser != null) return cachedUser;
-      
-      final user = await _apiService.fetchUser(id);
-      await _localStorage.saveUser(user);
-      return user;
-    } catch (e) {
-      throw UserRepositoryException(e.toString());
-    }
-  }
-}
