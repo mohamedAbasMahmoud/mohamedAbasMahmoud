@@ -1,98 +1,147 @@
-# 🙋‍♂️ Welcome to Mohamed Abas’s GitHub
+# 🙋‍♂️ Welcome to Mohamed Abas's GitHub
 
 <div align="center">
  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Software+Engineer;Flutter+Developer;Computer+Science;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Software+Engineer;Flutter+Developer;Mobile+Architect;Clean+Code+Enthusiast)](https://git.io/typing-svg)
 
-***
-
-👨‍💻 I’m a dedicated Flutter developer focused on building high-performance, scalable, and user-friendly mobile applications.  
-🧱 Strong experience with state management (Cubit/BLoC), clean architecture, and SOLID principles.  
-🚀 Passionate about crafting responsive UIs, integrating RESTful APIs & Firebase, and delivering production-ready apps.  
-🤝 Always open to collaboration, code reviews, and contributing to impactful mobile projects.
-
-***
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the(https://www.linkedin.com/in/mohamed-abas-761a36251  
-📧 Email: [mb580900@gmail.com](mailto:mb580900@gmail.com)  
-🌍 Location: Egypt  
-
-***
-
-### 🧠 About Me
-
-<h2 align="left">Hi 👋! My name is  Mohamed Abas.</h2>
-
-<p align="left">
-I'm a passionate Flutter Developer with deep experience in:<br><br>
-🔁 State Management (Cubit/BLoC) for structured, scalable Flutter apps<br>
-🧱 OOP & SOLID Principles for clean, maintainable code<br>
-🎯 Creating fully responsive UIs for all screen sizes<br>
-🔥 Integrating Firebase services (Authentication, Firestore, etc.)<br>
-🌐 Consuming RESTful APIs and handling real-time data efficiently<br>
-🛠️ Expert in Git & GitHub for version control and collaborative development<br>
-📩 Contact me at: <a href="mailto:mb580900@gmail.com">mb580900@gmail.com</a><br><br>
-Always striving to build high-performance, user-friendly mobile apps using clean architecture.
-</p>
-
-***
-
-### 🛠 Languages and Tools:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
 </div>
 
-***
+---
 
-### 📱 Flutter Focus
+<div align="center">
 
-- Building production-level Flutter apps using Cubit/BLoC and clean architecture.  
-- Implementing responsive layouts that adapt smoothly to different screen sizes.  
-- Integrating Firebase (Auth, Firestore, Storage, Notifications) and RESTful APIs.  
-- Following best practices in code organization, testing, and version control.  
+### 👋 Hey there! I'm Mohamed Abas
 
-***
+**A passionate Flutter Developer crafting high-performance, user-centric mobile applications**
 
-### 📩 Connect with Me
-
-<div align="left">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="51" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="25" alt="discord logo"  />
-  </a>
-  <a href="mailto:mb580900@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-abas-761a36251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/201000000000" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="25" alt="whatsapp logo"  />
-  </a>
 </div>
 
-***
+💡 I specialize in transforming complex requirements into elegant, production-ready solutions using Flutter and Dart [web:9].
+
+🎯 **What I Bring to the Table:**
+- 🔁 **State Management Mastery** → Expert in Cubit/BLoC for scalable app architecture
+- 🧱 **Clean Architecture** → Building maintainable codebases following SOLID principles
+- 🎨 **Responsive Design** → Pixel-perfect UIs that adapt seamlessly to all screen sizes
+- 🔥 **Firebase Integration** → Authentication, Firestore, Storage, and Push Notifications
+- 🌐 **API Integration** → Efficient REST API consumption and real-time data handling
+- 🛠️ **Version Control Pro** → Git & GitHub for collaborative development excellence
+
+🌟 **My Mission:** Creating mobile experiences that users love and developers admire [web:7][web:9].
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abas-761a36251)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mb580900@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201000000000)
+
+📧 **Email:** mb580900@gmail.com  
+🌍 **Location:** Egypt
+
+</div>
+
+---
+
+## 🧠 About Me
+
+<h3 align="left">Hi 👋! My name is Mohamed Abas</h3>
+
+I'm a **Flutter Developer** with a proven track record of delivering production-grade mobile applications [web:6]. My expertise spans:
+
+✨ **Technical Skills:**
+- 🔁 State Management (Cubit/BLoC) for structured, scalable Flutter apps
+- 🧱 OOP & SOLID Principles for clean, maintainable code
+- 🎯 Fully responsive UIs that adapt to all screen sizes
+- 🔥 Firebase services (Authentication, Firestore, Cloud Storage)
+- 🌐 RESTful API integration and efficient data handling
+- 🛠️ Git & GitHub for version control and team collaboration
+
+📚 **Currently Exploring:**
+- Advanced Flutter animations and custom widgets
+- Testing strategies (Unit, Widget, Integration)
+- CI/CD pipelines for Flutter applications
+
+💬 **Let's Collaborate:** Always open to exciting projects and code reviews!
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" title="Dart" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=flutter" height="50" alt="Flutter" title="Flutter" />
+<img width="20" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase" />
+
+### Development Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />
+<img width="20" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="Android Studio" title="Android Studio" />
+
+### Version Control
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />
+<img width="20" />
+<img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="Git" title="Git" />
+
+### Other Tools
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="50" alt="Chrome DevTools" title="Chrome DevTools" />
+<img width="20" />
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="Discord" title="Discord" />
+
+</div>
+
+---
+
+## 📱 Flutter Development Focus
+
+<div align="center">
+
+| Area | Expertise |
+|------|-----------|
+| 🏗️ **Architecture** | Clean Architecture, MVVM, Repository Pattern |
+| 🔄 **State Management** | Cubit, BLoC, GetX |
+| 🎨 **UI/UX** | Responsive Layouts, Custom Widgets, Animations |
+| 🔥 **Backend Integration** | Firebase (Auth, Firestore, Storage), REST APIs |
+| 🧪 **Quality Assurance** | Unit Testing, Widget Testing, Code Reviews |
+| 📦 **Packages** | dio, get_it, shared_preferences, flutter_bloc |
+
+</div>
+
+**My Approach:**
+1. 📋 **Planning** → Understanding requirements and architecting scalable solutions
+2. 💻 **Development** → Writing clean, testable code following best practices
+3. 🧪 **Testing** → Ensuring reliability through comprehensive testing
+4. 🚀 **Deployment** → Delivering polished apps to Play Store & App Store
+
+---
+
+## 🌟 What Makes My Code Different
+
+```dart
+// Clean, maintainable, and following SOLID principles
+class UserRepository {
+  final ApiService _apiService;
+  final LocalStorage _localStorage;
+  
+  UserRepository(this._apiService, this._localStorage);
+  
+  Future<User> getUser(String id) async {
+    // Efficient error handling and caching strategy
+    try {
+      final cachedUser = await _localStorage.getUser(id);
+      if (cachedUser != null) return cachedUser;
+      
+      final user = await _apiService.fetchUser(id);
+      await _localStorage.saveUser(user);
+      return user;
+    } catch (e) {
+      throw UserRepositoryException(e.toString());
+    }
+  }
+}
