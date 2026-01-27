@@ -1,7 +1,10 @@
 # 🙋‍♂️ Welcome to Mohamed Abas’s GitHub
 
-<h1 align="center">Flutter Developer | Mobile App Enthusiast | Clean Architecture Advocate</h1>
-<p align="center">
+<div align="center">
+ 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Software+Engineer;Flutter+Developer;Computer+Science;)](https://git.io/typing-svg)
+  
+</div><p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </p>
 
